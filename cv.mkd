@@ -1,9 +1,85 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estou buscando uma oportunidade como Webmaster/Web Dev para desenvolver minha carreira como Front-end e Back-end
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Objetivo
+Webmaster, Desenvolvedor/Programador Web, Desenvolvedor/Programador PHP, 
+Analista de Sistemas, Analista de SEO, DBA, Front-End, Back-End.
+
+Formação Acadêmica
+•  2005 / 2008 - Universidade Bandeirantes de São Paulo		
+o	Tecnólogo em Tecnologia em Processamento de Dados
+o	Bacharel em Sistemas de Informação
+
+Qualificações e Certificados
+•	Conhecimentos WEB:
+o	XHTML, HTML 5, CSS 3, Javascript, JSON, JQuery, XML, AJAX.
+o	Java, JSP, PHP (OO), ASP, Velocity.
+o	MySQL, Workbench 5.2, Firebird, SQL Server 2000. 
+o	Padrões e Técnicas:
+	Tableless, Slice e Sprite de imagens (Photoshop), Modernizr, Fire Bug, Developer Tools, HTML5 Shiv.
+
+•	Estudando: 
+	APIs REST, Microformatos, Ruby, Python, Prototype, WordPress, Canvas.
+
+•	Certificados Treina Web Cursos (E-Learning)
+o	HTML, XHTML, DHTML, CSS, Tableless, JQuery, AJAX
+o	Java JSE / J2SE, Java JEE / J2EE
+o	Teste de Software (Cursando)
+o	Oracle (Cursando)
+o	SEO (Cursando)
+o	PHP (Cursando)
+
+•	Certificado MCS Java Traning - Treinamento Desenvolvedor Java (80 Horas) - 2010
+o	Lógica de Programação Orientada a Objetos (10 horas)
+o	Banco de Dados – Linguagem SQL (15 horas)
+o	Laboratório de Linguagens (15 horas)
+o	Laboratório WEB (10 horas)
+o	Desenvolvimento WEB (20 horas)
+o	Ferramentas de Produtividade (10 horas)
+
+•	Mini cursos gratuitos - Global Code - 2009
+o	Introdução à plataforma Java (3 horas)
+o	Sintaxe da plataforma Java e Orientação a Objetos (3 horas)
+o	Introdução a desenvolvimento web com Java (3 horas)
+o	Introdução a Design Patterns (3 horas)
+o	Java e Banco de Dados JDBC (3 horas)
+
+•	Certificado SQL Connect 2007 (8 horas)
+o	Ferramentas, técnicas e segurança com Base de Dados.
+
+•	Certificado Prodesp (8 horas)
+o	Estilo Prodesp de Relacionamento 2006.
+
+Experiência Profissional
+•	01/09/2011 à 09/05/2012 – UOL – 8 meses
+o	Cargo: Webmaster
+o	Principal atividade: Criação e manutenção das páginas do UOL HOST (http://www.uolhost.com.br/).
+o	XHTML, HMTL5, CSS3, Javascript, JQuery e APIs, Ajax, Velocity, Template Cache, Modernizr, Photoshop para slice de imagens, Sprite de imagens, SVN Subversion.
+
+•	08/09/2009 à 02/02/2011 – Tekbond - 1 ano e 6 meses
+o	Cargo: Analista Programador
+o	Principal atividade: Criação do site e sistemas da Empresa.
+o	Outras atividades: Gerenciamento de e-mails (Brasil e México), Suporte a maquinas, impressoras e servidores, Supervisão do backup de dados, Suporte ao ERP MCM.
+o	XHTML, CSS, Javascript, JQuery, PHP, MySQL, XML, Ajax, JOMLA.
+
+•	01/2009 à 08/2009 – Neogrid Mercador – 9 meses
+o	Cargo: Estagiário JAVA EE(Tecnologia)
+o	Principais atividades: Padronização do código e criação de scripts de teste. 
+
+•	07/2008 à 12/2008 – Busines System Consultoria e Tecnologia – 6 meses
+o	Cargo: Estagiário (Fábrica de Software)
+o	Principais atividades: Programação/Design - XHTML, CSS e Javascript, Tableless.
+
+•	01/2008 à 06/2008 – Chleba – 6 meses
+o	Cargo: Estagiário (Publicidade e Propaganda)
+o	Principais atividades: Ferramenta de e-mail Marketing. HTML, CSS, JavaScript.
+
+•	03/2006 à 12/2007 – Prodesp – 1 ano e 10 meses
+o	Cargo: Estagiário (Escritório de Projetos)
+o	Principais atividades: Criação de sistemas internos. XHTML, CSS, JavaScript, PHP, ASP, SQL Server 2000, MySQL, XML, AJAX.
+
